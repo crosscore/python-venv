@@ -3,3 +3,12 @@ python-dotenv
 
 ai21-tokenizer
 anthropic
+
+langchain
+langchain-community
+langchain-aws
+streamlit
+python-dateutil
+
+openai
+langchain-openai
