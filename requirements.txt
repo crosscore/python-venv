@@ -1,2 +1,5 @@
 boto3
 python-dotenv
+
+ai21-tokenizer
+anthropic
