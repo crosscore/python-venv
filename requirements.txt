@@ -12,3 +12,5 @@ python-dateutil
 
 openai
 langchain-openai
+
+tabulate
