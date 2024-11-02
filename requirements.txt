@@ -14,3 +14,5 @@ openai
 langchain-openai
 
 tabulate
+
+line-bot-sdk
