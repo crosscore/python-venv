@@ -1,0 +1,47 @@
+# Web Scraping
+selenium
+beautifulsoup4
+requests
+lxml
+playwright
+
+# Data Processing
+pandas
+numpy
+python-dateutil
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning (Optional)
+scikit-learn
+
+# API and Web
+fastapi
+uvicorn
+aiohttp
+
+# Database
+sqlalchemy
+pymongo
+
+# Utilities
+python-dotenv
+tqdm
+retry
+fake-useragent
+
+# Testing
+pytest
+
+# Logging and Monitoring
+loguru
+
+# Data Export
+openpyxl
+xlsxwriter
+
+# Color
+colorama
