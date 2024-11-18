@@ -1,0 +1,30 @@
+# 基本的なデータサイエンスライブラリ
+numpy
+pandas
+scipy
+scikit-learn
+
+# 可視化ライブラリ
+matplotlib
+seaborn
+plotly
+
+# ディープラーニングライブラリ
+tensorflow
+torch
+torchvision
+torchaudio
+
+# その他
+tqdm  # プログレスバー
+opencv-python # 画像処理 (cv2)
+requests # HTTPリクエスト
+beautifulsoup4 # ウェブスクレイピング
+lxml # XML/HTML処理
+
+# Jupyter関連 (VSCodeでJupyter拡張機能を使う場合)
+ipykernel
+notebook
+
+# Kaggle API (Kaggle datasetsをダウンロードする場合)
+kaggle
