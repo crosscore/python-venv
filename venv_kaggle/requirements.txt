@@ -28,3 +28,7 @@ notebook
 
 # Kaggle API (Kaggle datasetsをダウンロードする場合)
 kaggle
+
+# sudachi mecab
+sudachipy
+sudachidict_core
