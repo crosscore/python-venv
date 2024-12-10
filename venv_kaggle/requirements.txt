@@ -22,13 +22,18 @@ requests # HTTPリクエスト
 beautifulsoup4 # ウェブスクレイピング
 lxml # XML/HTML処理
 
-# Jupyter関連 (VSCodeでJupyter拡張機能を使う場合)
+# Jupyter関連 (VSCode用Jupyter拡張機能)
 ipykernel
 notebook
 
-# Kaggle API (Kaggle datasetsをダウンロードする場合)
+# Kaggle API (Kaggle datasetsをダウンロード)
 kaggle
 
 # sudachi mecab
 sudachipy
 sudachidict_core
+
+# WEBフレームワーク
+fastapi
+pydantic
+starlette
