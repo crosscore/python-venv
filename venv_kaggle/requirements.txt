@@ -37,3 +37,6 @@ sudachidict_core
 fastapi
 pydantic
 starlette
+
+# Others
+yt-dlp
