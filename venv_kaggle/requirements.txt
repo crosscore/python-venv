@@ -35,6 +35,7 @@ sudachidict_core
 
 # WEBフレームワーク
 fastapi
+uvicorn
 pydantic
 starlette
 
