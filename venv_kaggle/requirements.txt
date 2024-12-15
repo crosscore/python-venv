@@ -1,39 +1,39 @@
-# 基本的なデータサイエンスライブラリ
+# Data Science Library
 numpy
 pandas
 scipy
 scikit-learn
 
-# 可視化ライブラリ
+# Visualization Library
 matplotlib
 seaborn
 plotly
 
-# ディープラーニングライブラリ
+# Deep Learning Library
 tensorflow
 torch
 torchvision
 torchaudio
 
-# その他
-tqdm  # プログレスバー
-opencv-python # 画像処理 (cv2)
-requests # HTTPリクエスト
-beautifulsoup4 # ウェブスクレイピング
-lxml # XML/HTML処理
+# Others
+tqdm
+opencv-python # cv2
+requests # HTTP request
+beautifulsoup4 # web scraping
+lxml # XML/HTML
 
-# Jupyter関連 (VSCode用Jupyter拡張機能)
+# Jupyter for VSCode
 ipykernel
 notebook
 
-# Kaggle API (Kaggle datasetsをダウンロード)
+# Kaggle API (Download Kaggle datasets)
 kaggle
 
 # sudachi mecab
 sudachipy
 sudachidict_core
 
-# WEBフレームワーク
+# WEB Framework
 fastapi
 uvicorn
 pydantic
