@@ -42,7 +42,6 @@ starlette
 # Google Cloud
 google-cloud-aiplatform
 google-cloud-firestore
-vertexai
 tiktoken
 
 # Others
