@@ -6,8 +6,10 @@ torch
 sounddevice
 numpy
 
-# UI
-streamlit
+# fastAPI
+fastapi
+uvicorn
+python-multipart
 
 # その他
 ffmpeg-python
