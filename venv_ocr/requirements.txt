@@ -1,0 +1,14 @@
+# AWS SDK for Python
+boto3
+botocore
+
+# Type hints support
+typing-extensions
+
+# Development tools
+pytest
+pytest-cov
+pylint
+
+# Utilities
+python-dotenv
