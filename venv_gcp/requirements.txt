@@ -2,6 +2,8 @@
 python-dotenv
 google-cloud-vision
 google-cloud-storage
+google-cloud-aiplatform
+google-generativeai
 
 # Utility packages
 python-dateutil
