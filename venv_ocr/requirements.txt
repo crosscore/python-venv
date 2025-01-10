@@ -1,14 +1,30 @@
-# AWS SDK for Python
-boto3
-botocore
+# Core dependencies
+python-dotenv
+google-cloud-vision
+google-cloud-storage
+google-cloud-aiplatform
+google-generativeai
 
-# Type hints support
+# Vertex AI
+anthropic[vertex]
+
+# AWS
+boto3
+
+# Utility packages
+python-dateutil
 typing-extensions
 
-# Development tools
+# Logging and monitoring
+structlog
+
+# Development and testing
 pytest
 pytest-cov
-pylint
+black
+flake8
+mypy
 
-# Utilities
-python-dotenv
+# PDF processing
+pypdf
+pdf2image
