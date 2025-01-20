@@ -30,5 +30,5 @@ pypdf
 pdf2image
 
 # UI
-streamlit
-pillow
+fastapi
+uvicorn
