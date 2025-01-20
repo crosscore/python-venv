@@ -28,3 +28,7 @@ mypy
 # PDF processing
 pypdf
 pdf2image
+
+# UI
+streamlit
+pillow
