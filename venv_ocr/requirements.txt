@@ -1,12 +1,5 @@
 # Core dependencies
 python-dotenv
-google-cloud-vision
-google-cloud-storage
-google-cloud-aiplatform
-google-generativeai
-
-# Vertex AI
-anthropic[vertex]
 
 # AWS
 boto3
@@ -32,3 +25,5 @@ pdf2image
 # UI
 fastapi
 uvicorn
+jinja2
+python-multipart
