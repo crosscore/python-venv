@@ -21,6 +21,7 @@ mypy
 # PDF processing
 pypdf
 pdf2image
+pdfplumber
 
 # UI
 fastapi
