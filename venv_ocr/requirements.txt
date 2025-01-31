@@ -3,6 +3,7 @@ python-dotenv
 
 # AWS
 boto3
+requests
 
 # Utility packages
 python-dateutil
