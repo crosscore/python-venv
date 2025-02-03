@@ -1,19 +1,39 @@
 # Core dependencies
 python-dotenv
+pydantic
+pydantic-settings
 
 # AWS
 boto3
 
+# Azure OpenAI
+openai
+azure-identity
+azure-mgmt-cognitiveservices
+
 # Utility packages
 python-dateutil
 typing-extensions
+tenacity
 
 # Logging and monitoring
 structlog
+prometheus-client
+grafana-api-sdk
+
+# Database
+psycopg2-binary
+sqlalchemy
+alembic
+
+# Task Queue
+celery
+redis
 
 # Development and testing
 pytest
 pytest-cov
+pytest-asyncio
 black
 flake8
 mypy
@@ -22,11 +42,16 @@ mypy
 pypdf
 pdf2image
 
-# UI
+# Web Framework
 fastapi
 uvicorn
 jinja2
 python-multipart
+
+# Monitoring & Tracing
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-fastapi
 
 # Whisper (speech recognition)
 openai-whisper
