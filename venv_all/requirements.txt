@@ -57,6 +57,7 @@ opentelemetry-instrumentation-fastapi
 openai-whisper
 torch
 transformers
+datasets
 
 # Audio recording
 sounddevice
