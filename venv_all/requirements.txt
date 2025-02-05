@@ -71,3 +71,6 @@ moviepy
 pyannote.audio
 torchaudio
 sentencepiece
+
+# UUID
+shortuuid
