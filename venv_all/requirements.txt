@@ -1,76 +1,94 @@
-# Core dependencies
+# Project Configuration and Settings
 python-dotenv
 pydantic
 pydantic-settings
 
-# AWS
+# Cloud Providers
+## AWS
 boto3
 
-# Azure OpenAI
-openai
+## Azure OpenAI
 azure-identity
 azure-mgmt-cognitiveservices
+openai
 
-# Utility packages
+# Utilities
 python-dateutil
 typing-extensions
 tenacity
+requests
+aiohttp
+aiofiles
+tqdm
+tiktoken
+shortuuid
+setuptools
 
-# Logging and monitoring
+# Logging, Monitoring, and Observability
+## Logging
 structlog
+
+## Monitoring
 prometheus-client
 grafana-api-sdk
 
+## Tracing
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-fastapi
+
 # Database
+## ORM and Core
 psycopg2-binary
 sqlalchemy
 alembic
 
-# Task Queue
+# Task Queue and Message Broker
 celery
 redis
 
-# Development and testing
-pytest
-pytest-cov
-pytest-asyncio
-black
-flake8
-mypy
-
-# PDF processing
-pypdf
-pdf2image
-
-# Web Framework
+# Web Framework and Server
 fastapi
 uvicorn
 jinja2
 python-multipart
 
-# Monitoring & Tracing
-opentelemetry-api
-opentelemetry-sdk
-opentelemetry-instrumentation-fastapi
-
-# Whisper (speech recognition)
+# AI/ML and Media Processing
+## Speech Recognition (ASR)
+### Whisper
 openai-whisper
 torch
 transformers
 datasets
 
-# Audio recording
-sounddevice
-numpy
-
-# Video/audio processing
-ffmpeg-python
-yt-dlp
-moviepy
-
+### pyannote.audio
 pyannote.audio
 torchaudio
 sentencepiece
 
-# UUID
-shortuuid
+## Audio Recording and Processing
+sounddevice
+numpy
+
+## Video/Audio Download and Processing
+ffmpeg-python
+yt-dlp
+moviepy
+
+## PDF Processing
+pypdf
+pdf2image
+
+# Development and Testing (Not for production)
+## Testing
+pytest
+pytest-cov
+pytest-asyncio
+
+## Code Quality
+black
+flake8
+mypy
+
+# other
+cursor
